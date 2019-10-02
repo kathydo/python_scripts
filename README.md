@@ -1,2 +1,3 @@
 # python_scripts
-Data processing and cleaning
+
+Repo to store various data processing, cleaning, scraping, and analysis scripts.
